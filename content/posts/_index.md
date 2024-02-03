@@ -1,7 +1,7 @@
 +++
 title = 'Posts'
 date = 2024-02-03T16:12:24+05:30
-draft = true
+draft = false
 +++
 
 # Blog Posts
