@@ -12,15 +12,15 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 
 ## Featured Posts
 
-### [AI-Enhanced Cybersecurity Best Practices](/posts/one/)
+### [AI-Enhanced Cybersecurity Best Practices](/first/posts/one/)
 
 Delve into the critical best practices for leveraging AI to fortify your cybersecurity measures. This article provides a step-by-step guide on how to seamlessly integrate AI into your existing security protocols, ensuring a robust defense against digital threats.
 
-### [The Future of AI in Cybersecurity](/posts/two/)
+### [The Future of AI in Cybersecurity](/first/posts/two/)
 
 Join us on a journey to the future, as we explore the potential impacts and innovations AI is expected to bring to cybersecurity. This forward-looking piece examines emerging trends, potential ethical considerations, and the evolving role of AI-driven technologies in cyber defense strategies.
 
-### [AI Threats in Cybersecurity](/posts/three/)
+### [AI Threats in Cybersecurity](/first/posts/three/)
 
 Uncover the darker side of AI in the realm of cybersecurity. This post offers a critical analysis of how AI can be used to augment cyber threats, and what measures can be taken to prevent such risks. Gain insights into the proactive steps necessary to stay ahead of AI-powered attacks.
 

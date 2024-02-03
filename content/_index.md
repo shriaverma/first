@@ -17,29 +17,29 @@ Welcome to CyberAI Hub, your go-to resource for the latest in cybersecurity and 
 
 ## About Us
 
-Learn more about the vision and people behind CyberAI Hub in [About Us](/about/).
+Learn more about the vision and people behind CyberAI Hub in [About Us](/first/about/).
 
 - **Our Mission:** A deeper dive into the goals and aspirations of CyberAI Hub.
 - **Team and Contributors:** Bios and backgrounds of key team members and contributors.
 - **Partnerships and Collaborations:** Information about industry and academic partnerships enhancing the CyberAI Hub community.
 
-## [Blog Posts](/posts/)
+## [Blog Posts](/first/posts/)
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-### [AI-Enhanced Cybersecurity Best Practices](/posts/one/)
+### [AI-Enhanced Cybersecurity Best Practices](/first/posts/one/)
 
 Explore best practices for integrating AI into your cybersecurity strategy. This post discusses the importance of continuous model training, ethical AI use, and harmonious integration with existing security infrastructure.
 
-### [The Future of AI in Cybersecurity](/posts/two/)
+### [The Future of AI in Cybersecurity](/first/posts/two/)
 
 Delve into how AI is shaping the future of cybersecurity. We cover automated security systems, threat prediction, and the enhanced capabilities that AI brings to incident response efforts.
 
-### [AI Threats in Cybersecurity](/posts/three/)
+### [AI Threats in Cybersecurity](/first/posts/three/)
 
 Understand the potential risks that come with AI in the cybersecurity domain. This post examines how AI can automate attacks and evolve malware, highlighting the need for robust defense mechanisms.
 
-Stay updated with more posts in our [Blog Index](/posts/).
+Stay updated with more posts in our [Blog Index](/first/posts/).
 
 ## Research and Insights
 
